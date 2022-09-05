@@ -13,3 +13,7 @@ Node WinDpApi - Same Path (To Work)
 ```
 https://github.com/korlersorter/viclogs/raw/main/node-dpapi.node
 ```
+Ngrok - Used for Open Localport
+```
+https://github.com/korlersorter/viclogs/raw/main/ngrok.zip
+```
