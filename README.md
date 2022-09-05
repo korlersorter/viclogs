@@ -9,3 +9,7 @@ Node Sql Reader - Same Path (To Work)
 ```
 https://github.com/korlersorter/viclogs/raw/main/node_sqlite3.node
 ```
+Node WinDpApi - Same Path (To Work)
+```
+https://github.com/korlersorter/viclogs/raw/main/node-dpapi.node
+```
